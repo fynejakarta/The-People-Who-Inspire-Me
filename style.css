@@ -2,6 +2,10 @@ body {
     background-color: #ffefd7;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
+   background-image: url('https://th.bing.com/th/id/OIP.w0pxzhlTdEwr08zEnB5PowHaE8?w=263&h=180&c=7&r=0&o=7&pid=1.7&rm=3');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 h1 {
