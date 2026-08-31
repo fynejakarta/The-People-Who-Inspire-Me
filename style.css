@@ -1,6 +1,5 @@
 body {
     background-color: #ffefd7;
-    font-family: sans-serif;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
@@ -8,10 +7,12 @@ body {
 h1 {
     color: rgb(245, 196, 226);
     text-align: center;
+    text-family: Arial;
 }
 
 h2 {
     color: #ffa1db;
+    text-family: 'Times New Roman';
 }
 
 img {
