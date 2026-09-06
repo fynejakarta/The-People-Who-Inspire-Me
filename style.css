@@ -58,11 +58,12 @@ h2 {
 }
 
 img {
-  width: 180px;
-  height: 180px;
-  object-fit: cover; /* Biar foto ga gepeng */
-  border-radius: 20px; /* Sudut foto melengkung */
-  border: 4px solid #fff3f6;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%; /* Dibuat bulat biar beda dan lucu! */
+  border: 4px solid #ffffff;
+  outline: 2px dashed #ffc2d1; /* Bingkai putus-putus pastel */
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-  margin: 15px 0;
+  flex-shrink: 0;
 }
