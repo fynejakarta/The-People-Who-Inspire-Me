@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&family=Outfit:wght@700&display=swap');
+
 body {
     background-color: #ffefd7;
     padding-bottom: 30px;
@@ -45,11 +47,12 @@ h2 {
   box-shadow: 0 12px 25px rgba(220, 190, 205, 0.4);
 }
 
-.text-side {
-  flex: 1;
-  font-size: 13.5px;
-  line-height: 1.6;
-  color: #6c5a63;
+.text-side, p {
+  font-family: 'Nunito', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.7;
+  color: #5c434e;
   text-align: justify;
 }
 
