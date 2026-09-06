@@ -82,6 +82,18 @@ h2 {
   border: 1px dashed #f7cad0;
 }
 
+.card-laura .laura-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  margin-bottom: 15px;
+  padding: 0 10px;
+}
+
+.card-laura img {
+  margin: 0;
+}
+
 img {
   width: 150px;
   height: 150px;
