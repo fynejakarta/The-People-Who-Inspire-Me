@@ -6,8 +6,9 @@ body {
     padding: 0px 5% 30px;
    background-image: url('https://i.pinimg.com/1200x/54/17/a6/5417a63ba00997fa82f6bdc706856627.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: center top;
+background-attachment: fixed;
 }
 
 h1 {
