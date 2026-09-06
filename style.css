@@ -9,9 +9,10 @@ body {
 }
 
 h1 {
-    color: rgb(245, 196, 226);
-    text-align: center;
-    text-family: Arial;
+  text-align: center;
+  color: #7d6b7d;
+  font-size: 26px;
+  margin-bottom: 30px;
 }
 .card {
   background-color: #ffffff;
