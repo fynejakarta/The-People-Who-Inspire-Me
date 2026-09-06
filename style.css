@@ -57,24 +57,29 @@ h2 {
 }
 
 .badge {
-  display: inline-block;
-  background-color: #ffe5ec;
-  color: #ff85a2;
+  font-family: 'Nunito', sans-serif;
+  background-color: #ffccd5;
+  color: #800f2f; /* Teks badge gelap */
   font-size: 11px;
-  font-weight: bold;
+  font-weight: 700;
   padding: 4px 12px;
-  border-radius: 12px;
-  margin-top: 6px;
-  border: 1px dashed #ffb3c6;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  display: inline-block;
 }
 
 .mini-quote {
+  font-family: 'Nunito', sans-serif;
   font-style: italic;
-  font-size: 12px;
-  color: #a2889b;
+  font-weight: 700;
+  font-size: 13px;
+  color: #9e476c; /* Pink pastel gelap manis */
+  background-color: #fff0f5; /* Background highlight pink super soft */
+  border-radius: 12px;
+  padding: 8px 15px;
   margin-top: 15px;
-  padding-top: 10px;
-  border-top: 1px dashed #f2e3ea;
+  display: inline-block;
+  border: 1px dashed #f7cad0;
 }
 
 img {
