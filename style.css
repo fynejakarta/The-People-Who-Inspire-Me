@@ -87,6 +87,7 @@ h2 {
   left: 30px;
   opacity: 0.4;
   filter: blur(1.5px);
+ z-index: 1;
 }
 
 .decor-2 {
@@ -96,6 +97,7 @@ h2 {
   right: 35px;
   opacity: 0.45;
   filter: blur(1px);
+z-index: 1;
 }
 
 .text-side, p {
