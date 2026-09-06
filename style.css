@@ -27,8 +27,8 @@ h1 {
 }
 
 h2 {
-    color: #ffa1db;
-    text-family: 'Times New Roman';
+  font-family: 'Outfit', sans-serif;
+  color: #e27396;
 }
 
 .card-content {
